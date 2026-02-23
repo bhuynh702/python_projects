@@ -1,0 +1,16 @@
+"""
+
+File: major.py
+Author: Brittany Huynh
+Date: 09/12/2023
+E-mail: bhuynh4@umbc.edu
+Description: This file tells the user what grade they need in their CMSC 201 class depending on their major. 
+
+"""
+major1 = input("Please enter your major:")
+
+if (major1 == "CMSC") or (major1 == "CMPE"):
+    print("You need to earn at least a B for CMSC 201 to count")
+else:
+    print("You need to earn at least a C for CMSC 201 to count")
+    

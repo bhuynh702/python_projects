@@ -1,0 +1,12 @@
+"""
+Author: Brittany Huynh
+Date: December 2023
+File: get_page.py
+E-mail: bhuynh4@umbc.edu
+"""
+
+import requests
+
+if __name__ == '__main__':
+    grit_page = requests.get("http://www.umbc.edu").text
+    print(grit_page)

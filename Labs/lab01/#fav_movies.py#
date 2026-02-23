@@ -1,0 +1,20 @@
+"""
+
+File: fav_movies.py
+Author: Brittany Huynh
+Date: 9/5/2023
+E-mail: bhuynh4@umbc.edu
+Description: This file includes students' from UMBC's favorite movies of different genres.
+
+"""
+
+horror_movie = input("What is your favorite horror movie? ")
+scifi_movie = input("What is your favorite sci-fi movie? ")
+romantic_movie = input("What is your favorite romantic movie? ")
+best_movie = input("What is the best movie of all time? ")
+
+print("Your favorite horror film is:", horror_movie)
+
+
+
+
