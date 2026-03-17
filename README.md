@@ -6,7 +6,7 @@ A collection of Python projects, homework assignments, labs, and examples from a
 
 ```
 python_projects/
-├── Projects/         # Capstone projects
+├── Projects/         # Projects
 │   ├── Mancala/      # Mancala board game
 │   ├── Tactego/      # Stratego-style strategy game
 │   └── Retriever_Bell/ # Phone switchboard network simulator
